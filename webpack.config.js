@@ -9,6 +9,7 @@ module.exports = {
   entry: ["./src/index.tsx"],
   output: {
     path: distPath,
+    publicPath: '/',
     filename: "index.js",
     clean: true,
     libraryTarget: "system",
