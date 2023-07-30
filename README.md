@@ -12,7 +12,7 @@ Feel free to change any files and add new packages you want.
 ## Prerequisites
 
 * Access to KaaIoT UI. You can [create a free cloud account](https://www.kaaproject.org/free-trial) if you don't have one.
-* [Node.js](https://nodejs.org/en/) > 15 or [nvm](https://github.com/nvm-sh/nvm)
+* [Node.js](https://nodejs.org/en/) > 18 or [nvm](https://github.com/nvm-sh/nvm)
 * npm
 
 ## Up and running
